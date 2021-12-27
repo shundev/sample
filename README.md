@@ -10,3 +10,11 @@ npm i -g cypress
 cd vue-app
 npm install
 ```
+
+## test 実行方法
+
+プロジェクトルートで
+
+```
+cypress run
+```
